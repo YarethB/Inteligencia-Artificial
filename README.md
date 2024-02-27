@@ -8,4 +8,8 @@ Integrantes:
 
 ● González Rosales Brenda Yareth
 
+● Pérez Aguilar Dulce Evelyn
+
+● Sánchez Cabrera Justino Antonio
+
 ● Zurita Cariño Emmanuel Einar
