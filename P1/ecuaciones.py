@@ -23,7 +23,7 @@ ecs = nump.array([[16.0,-6.0,4.0,1.0],
 sol_array= nump.array ([[36.0],[-64.0],[-4.0],[-64.0]])
 
 #Array tipo numpy que rellena con valores random entre -5 y 5 y lo convierte a una matriz vertical de 1 columna
-valoresAlt = nump.array([random.uniform(-5.0, 5.0) for _ in range(4)]).reshape(4, 1)
+valoresAlt = nump.array([random.uniform(-100.0, 100.0) for _ in range(4)]).reshape(4, 1)
 
 x = nump.dot(ecs,valoresAlt)#realiza la multiplicacion de matrices entre la matriz de coeficientes y la matriz de valores aleatorios
 # Calculo de la distancia euclidiana
