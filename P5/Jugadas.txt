@@ -1,0 +1,301 @@
+
+>> JUGADA 1 <<
+
+• Movimiento: 0
+• Estado del tablero:
+X|X| 
+-----
+ | | 
+-----
+ | | 
+
+• Movimiento: 2
+• Estado del tablero:
+ |X|X
+-----
+ | | 
+-----
+ | | 
+
+• Movimiento: 3
+• Estado del tablero:
+ |X| 
+-----
+X| | 
+-----
+ | | 
+
+• Movimiento: 4
+• Estado del tablero:
+ |X| 
+-----
+ |X| 
+-----
+ | | 
+
+• Movimiento: 5
+• Estado del tablero:
+ |X| 
+-----
+ | |X
+-----
+ | | 
+
+• Movimiento: 6
+• Estado del tablero:
+ |X| 
+-----
+ | | 
+-----
+X| | 
+
+• Movimiento: 7
+• Estado del tablero:
+ |X| 
+-----
+ | | 
+-----
+ |X| 
+
+• Movimiento: 8
+• Estado del tablero:
+ |X| 
+-----
+ | | 
+-----
+ | |X
+
+
+>> JUGADA 2 <<
+
+• Movimiento: 2
+• Estado del tablero:
+O|X|O
+-----
+ | | 
+-----
+ | | 
+
+• Movimiento: 3
+• Estado del tablero:
+O|X| 
+-----
+O| | 
+-----
+ | | 
+
+• Movimiento: 4
+• Estado del tablero:
+O|X| 
+-----
+ |O| 
+-----
+ | | 
+
+• Movimiento: 5
+• Estado del tablero:
+O|X| 
+-----
+ | |O
+-----
+ | | 
+
+• Movimiento: 6
+• Estado del tablero:
+O|X| 
+-----
+ | | 
+-----
+O| | 
+
+• Movimiento: 7
+• Estado del tablero:
+O|X| 
+-----
+ | | 
+-----
+ |O| 
+
+• Movimiento: 8
+• Estado del tablero:
+O|X| 
+-----
+ | | 
+-----
+ | |O
+
+
+>> JUGADA 3 <<
+
+• Movimiento: 2
+• Estado del tablero:
+O|X|X
+-----
+X| | 
+-----
+ | | 
+
+• Movimiento: 4
+• Estado del tablero:
+O|X| 
+-----
+X|X| 
+-----
+ | | 
+
+• Movimiento: 5
+• Estado del tablero:
+O|X| 
+-----
+X| |X
+-----
+ | | 
+
+• Movimiento: 6
+• Estado del tablero:
+O|X| 
+-----
+X| | 
+-----
+X| | 
+
+• Movimiento: 7
+• Estado del tablero:
+O|X| 
+-----
+X| | 
+-----
+ |X| 
+
+• Movimiento: 8
+• Estado del tablero:
+O|X| 
+-----
+X| | 
+-----
+ | |X
+
+
+>> JUGADA 4 <<
+
+• Movimiento: 2
+• Estado del tablero:
+O|X|O
+-----
+X| | 
+-----
+ | |O
+
+• Movimiento: 4
+• Estado del tablero:
+O|X| 
+-----
+X|O| 
+-----
+ | |O
+
+• Movimiento: 5
+• Estado del tablero:
+O|X| 
+-----
+X| |O
+-----
+ | |O
+
+• Movimiento: 6
+• Estado del tablero:
+O|X| 
+-----
+X| | 
+-----
+O| |O
+
+• Movimiento: 7
+• Estado del tablero:
+O|X| 
+-----
+X| | 
+-----
+ |O|O
+
+
+>> JUGADA 5 <<
+
+• Movimiento: 2
+• Estado del tablero:
+O|X|X
+-----
+X|X| 
+-----
+ | |O
+
+• Movimiento: 5
+• Estado del tablero:
+O|X| 
+-----
+X|X|X
+-----
+ | |O
+
+• Movimiento: 6
+• Estado del tablero:
+O|X| 
+-----
+X|X| 
+-----
+X| |O
+
+• Movimiento: 7
+• Estado del tablero:
+O|X| 
+-----
+X|X| 
+-----
+ |X|O
+
+
+>> JUGADA 6 <<
+
+• Movimiento: 5
+• Estado del tablero:
+O|X|O
+-----
+X|X|O
+-----
+ | |O
+
+• Movimiento: 6
+• Estado del tablero:
+O|X|O
+-----
+X|X| 
+-----
+O| |O
+
+• Movimiento: 7
+• Estado del tablero:
+O|X|O
+-----
+X|X| 
+-----
+ |O|O
+
+
+>> JUGADA 7 <<
+
+• Movimiento: 6
+• Estado del tablero:
+O|X|O
+-----
+X|X|X
+-----
+X| |O
+
+• Movimiento: 7
+• Estado del tablero:
+O|X|O
+-----
+X|X|X
+-----
+ |X|O
+
